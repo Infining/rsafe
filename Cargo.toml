@@ -10,11 +10,10 @@ base64 = "0.1.1"
 "url" = "0.5.9"
 request = "0.0.8"
 
-
 [lib]
 name = "rsafe"
 src = "src/lib.rs"
 
-[[example]]
-name = "rsafeclient"
-path = "examples/rsafeclient.rs"
+# [[example]]
+# name = "rsafeclient"
+# path = "examples/rsafeclient.rs"
